@@ -1,0 +1,8 @@
+.sideNav{
+    width:200px;
+    margin-top:10px;
+    border-right:1px solid #e2e2e2;
+}
+.sideNav ul{
+    list-style:none;
+}
